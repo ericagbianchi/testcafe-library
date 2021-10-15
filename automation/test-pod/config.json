@@ -1,0 +1,10 @@
+{
+    "url": "",
+    "kafkaBrokers": "",
+    "schemaRegistry": "",
+    "env": "",
+    "DBHost": "",
+    "DBUser": "",
+    "DBPassword": "",
+    "Database": ""
+}
